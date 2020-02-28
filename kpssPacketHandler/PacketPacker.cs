@@ -9,7 +9,7 @@ namespace kpssPacketHandler
         public static string PackPacket(Packet packet)
         {
             StringBuilder sb = new StringBuilder();
-            foreach (var a in packet.values) sb.Append(a + '%');
+            foreach (var a in packet.Values) sb.Append(a + '%');
 
             return sb.ToString().TrimEnd('%');
         }

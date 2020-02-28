@@ -1,25 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
 namespace kpssPacketHandler
 {
     public class Packet
     {
-        public string[] values = null;
+        public List<string> Values = new List<string>();
         public Packet(params object[] args)
         {
-            values = new string[args.Length];
-
-            for (int i = 0; i < this.values.Length; i++)
+            foreach(var a in args)
             {
-                values[i] = args[i].ToString();
+                Values.Add(a.ToString());
             }
         }
 
         public override string ToString()
         {
             StringBuilder info = new StringBuilder();
-            foreach (var a in values) info.Append(a + "\n");
+            foreach (var a in Values) info.Append(a + "\n");
 
             return info.ToString();
         }
