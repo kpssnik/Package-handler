@@ -1,0 +1,8 @@
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\bin\Debug\netstandard1.4\kpssPacketHandler.deps.json
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\bin\Debug\netstandard1.4\kpssPacketHandler.dll
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\bin\Debug\netstandard1.4\kpssPacketHandler.pdb
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.csprojAssemblyReference.cache
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.csproj.CoreCompileInputs.cache
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.AssemblyInfo.cs
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.dll
+D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.pdb
