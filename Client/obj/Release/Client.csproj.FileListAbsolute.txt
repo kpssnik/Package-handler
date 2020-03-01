@@ -1,0 +1,6 @@
+F:\.NET Projects\PacketHandlerV\Client\bin\Release\Client.exe.config
+F:\.NET Projects\PacketHandlerV\Client\bin\Release\Client.exe
+F:\.NET Projects\PacketHandlerV\Client\bin\Release\Client.pdb
+F:\.NET Projects\PacketHandlerV\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+F:\.NET Projects\PacketHandlerV\Client\obj\Release\Client.exe
+F:\.NET Projects\PacketHandlerV\Client\obj\Release\Client.pdb

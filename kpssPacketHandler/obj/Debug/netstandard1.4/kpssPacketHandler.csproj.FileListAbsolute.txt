@@ -6,3 +6,12 @@ D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHand
 D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.AssemblyInfo.cs
 D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.dll
 D:\Users\Student\Documents\Кальницкий\kpssPacketHandler\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.pdb
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\bin\Debug\netstandard1.4\kpssPacketHandler.deps.json
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\bin\Debug\netstandard1.4\kpssPacketHandler.dll
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\bin\Debug\netstandard1.4\kpssPacketHandler.pdb
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.csprojAssemblyReference.cache
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.csproj.CoreCompileInputs.cache
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.AssemblyInfoInputs.cache
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.AssemblyInfo.cs
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.dll
+F:\.NET Projects\PacketHandlerV\kpssPacketHandler\obj\Debug\netstandard1.4\kpssPacketHandler.pdb

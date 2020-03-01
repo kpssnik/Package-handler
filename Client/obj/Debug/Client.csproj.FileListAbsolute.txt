@@ -1,0 +1,7 @@
+F:\.NET Projects\PacketHandlerV\Client\bin\Debug\Client.exe.config
+F:\.NET Projects\PacketHandlerV\Client\bin\Debug\Client.exe
+F:\.NET Projects\PacketHandlerV\Client\bin\Debug\Client.pdb
+F:\.NET Projects\PacketHandlerV\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\.NET Projects\PacketHandlerV\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\.NET Projects\PacketHandlerV\Client\obj\Debug\Client.exe
+F:\.NET Projects\PacketHandlerV\Client\obj\Debug\Client.pdb
